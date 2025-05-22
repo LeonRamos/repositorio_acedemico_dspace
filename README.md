@@ -1,5 +1,5 @@
 
-# Instalación de DSpace 8 en Ubuntu 24.04 LTS  
+# Instalación de DSpace 7 en Ubuntu 24.04 LTS  
 **Guía técnica para implementar repositorios académicos**  
 
 ---
