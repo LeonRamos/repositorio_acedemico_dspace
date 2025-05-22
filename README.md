@@ -152,7 +152,19 @@ pm2 startup
   ```
 
 ---
+## 🔗 Recursos oficiales  
+Para complementar esta guía, se recomienda consultar:  
+- **[Repositorio oficial DSpace](https://github.com/DSpace/DSpace)**  
+  Código fuente principal del sistema de repositorios, con documentación técnica y releases oficiales.  
 
-> **Fuente oficial**: [Blog DSpace Geek](https://dspacegeek.blogspot.com/2024/10/install-dspace-8-on-ubuntu-24.04-lts.html)  
-> **Licencia**: Apache 2.0 | **Versión**: DSpace 8.0 (2024)  
+- **[Interfaz Angular de DSpace](https://github.com/DSpace/dspace-angular)**  
+  Repositorio del frontend moderno basado en Angular, esencial para personalizaciones de UI/UX.  
+
+
+
+---
+
+> **Nota**: Estos recursos se actualizan constantemente - recomiendo monitorear los releases en GitHub para obtener las últimas mejoras de seguridad y funcionalidades.  
+ 
+> **Licencia**: Apache 2.0 | **Versión**: DSpace 7.0 (2024)  
 
